@@ -1,4 +1,4 @@
-#i wanrt to create a simple game as of now
+#i want to create a simple game as of now
 import pygame
 from sys import exit
 
